@@ -6,6 +6,12 @@ YourCollectible Contract Address:
 0x689144659d49709547025fbb17FF1B66AD4Ef164
 ```
 
+Vercel App
+
+```
+https://challenge-0-simple-nft-flame.vercel.app/
+```
+
 # 🚩 Challenge #0: 🎟 Simple NFT Example
 
 ![readme-0](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/375b7797-6839-43cd-abe5-fca94d88e300)
